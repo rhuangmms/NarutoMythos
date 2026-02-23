@@ -1,0 +1,11 @@
+{
+  "name": "Naruto Mythos TCG",
+  "description": "Naruto Mythos - Fan Made Card Game",
+  "author": "Rhuan Gabriel",
+  "version": "1.0",
+  "cards": "https://raw.githubusercontent.com/rhuangmms/NarutoMythos/main/cards.json",
+  "banner": "https://raw.githubusercontent.com/rhuangmms/NarutoMythos/main/ninjas/naruto_mythos%20(1).jpg",
+  "background": "https://raw.githubusercontent.com/rhuangmms/NarutoMythos/main/ninjas/naruto_mythos%20(2).jpg",
+  "rules": "Coloque suas regras aqui depois",
+  "startingDecks": []
+}
